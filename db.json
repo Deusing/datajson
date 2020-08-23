@@ -1,35 +1,17 @@
 [{
 		"_id": "5f422e5dea094c95617bab2c",
-		"index": 0,
-		"guid": "706049a4-c44a-4cf2-bbf3-3e9ed28ff2fc",
-		"isActive": false,
 		"picture": "http://placehold.it/32x32",
-		"age": 30,
 		"name": "Christine Natalie",
-		"gender": "female",
 		"company": "Olive Oil",
-		"email": "lenoreramsey@oceanica.com",
-		"phone": "+62 (832) 516-3840",
-		"about": "Et eiusmod duis excepteur dolor incididunt anim enim ex aute exercitation voluptate magna cupidatat deserunt. Labore exercitation et qui nisi et ipsum laboris excepteur amet consequat. Culpa anim et nisi velit magna. Duis irure irure in voluptate et. Adipisicing aute laborum proident mollit sunt deserunt do sunt irure eu consectetur incididunt. Qui amet exercitation id ea laboris reprehenderit. Sint tempor irure velit deserunt est commodo eiusmod ex irure.\r\n",
-		"registered": "2019-04-15T01:06:41 -08:00",
 		"tags": [
 			"animasi"
 		]
 	},
 	{
 		"_id": "5f422e5d1e59d68513a86be1",
-		"index": 1,
-		"guid": "6e88beeb-abb8-4419-8650-5b7e591359d8",
-		"isActive": true,
 		"picture": "http://placehold.it/32x32",
-		"age": 22,
 		"name": "Deddy Rachman",
-		"gender": "female",
 		"company": "Titik Pintar",
-		"email": "meaganking@grok.com",
-		"phone": "+62 (937) 588-2931",
-		"about": "Occaecat dolor culpa sint ex. Non est excepteur velit Lorem. Elit enim anim esse do velit cillum reprehenderit aute nulla aliqua anim. Nostrud dolor sunt cillum excepteur id dolore minim et non velit. Deserunt amet sit tempor reprehenderit tempor ut excepteur dolor labore incididunt occaecat. Pariatur in esse enim proident ullamco. Deserunt ea est commodo nisi ex culpa occaecat irure.\r\n",
-		"registered": "2017-04-11T04:09:52 -08:00",
 		"tags": [
 			"animasie",
 			"illustrasi"
@@ -37,72 +19,36 @@
 	},
 	{
 		"_id": "5f422e5d1b32ffab63edbbfd",
-		"index": 2,
-		"guid": "fda98b94-52a1-4a66-a8f0-d683b46bfaeb",
-		"isActive": true,
 		"picture": "http://placehold.it/32x32",
-		"age": 30,
 		"name": "ALDO Fernando",
-		"gender": "male",
 		"company": "Tok Tik",
-		"email": "fuentesrocha@zidant.com",
-		"phone": "+62 (836) 511-3536",
-		"about": "Ea eu veniam pariatur incididunt id deserunt in laborum ipsum ea ut. Veniam anim nisi est est eiusmod ullamco eiusmod pariatur non commodo sunt est mollit Lorem. Nulla ipsum fugiat nulla non voluptate. Laborum elit est consequat duis anim adipisicing commodo nulla. Aliquip do laboris excepteur nisi cillum. Nisi amet ad deserunt esse consectetur amet.\r\n",
-		"registered": "2016-05-24T03:21:22 -08:00",
 		"tags": [
 			"illustrasi"
 		]
 	},
 	{
 		"_id": "5f422e5d2ac0bf4c7d524169",
-		"index": 3,
-		"guid": "0149f391-3049-4440-8f53-c7af57e4172d",
-		"isActive": false,
 		"picture": "http://placehold.it/32x32",
-		"age": 20,
 		"name": "ALexandro grahamn",
-		"gender": "male",
 		"company": "Acebuk",
-		"email": "richardslawrence@solgan.com",
-		"phone": "+62 (925) 582-3598",
-		"about": "Magna nulla amet qui qui aliquip laborum elit laborum laborum eu deserunt culpa mollit. Commodo magna id cillum elit. Deserunt consequat exercitation quis fugiat veniam irure consequat. Deserunt et tempor Lorem deserunt. Aliquip dolore irure excepteur irure elit do irure proident labore voluptate in aliquip laborum. Quis cillum pariatur et mollit reprehenderit non consectetur labore elit qui ex amet. Id cillum elit eiusmod officia duis ex veniam excepteur nostrud fugiat laboris.\r\n",
-		"registered": "2017-12-30T05:57:31 -08:00",
 		"tags": [
 			"illustrasi"
 		]
 	},
 	{
 		"_id": "5f422e5da777343811ca2516",
-		"index": 4,
-		"guid": "0bbc6b3a-baaf-451d-99dc-6d9016a99973",
-		"isActive": false,
 		"picture": "http://placehold.it/32x32",
-		"age": 20,
 		"name": "ALICIA FELICIA",
-		"gender": "male",
 		"company": "Dentists",
-		"email": "moorehopper@adornica.com",
-		"phone": "+62 (815) 417-2213",
-		"about": "Anim excepteur ad enim ex sunt. Commodo anim culpa ut veniam consectetur ea duis anim sunt proident irure. Non aliqua et anim nisi incididunt nisi sunt quis nisi minim. Qui cillum sunt cillum fugiat nostrud minim occaecat ullamco non nostrud.\r\n",
-		"registered": "2020-04-19T06:54:51 -08:00",
 		"tags": [
 			"animasi"
 		]
 	},
 	{
 		"_id": "5f422e5d73702fedc357510a",
-		"index": 5,
-		"guid": "dec50796-e9eb-4bf7-b289-13b4525fb41e",
-		"isActive": true,
 		"picture": "http://placehold.it/32x32",
-		"age": 37,
 		"name": "Marcia Contreras",
-		"gender": "female",
 		"company": "SYNTAC",
-		"email": "marciacontreras@syntac.com",
-		"phone": "+62 (991) 509-2276",
-		"about": "Enim amet ex duis occaecat nostrud aute occaecat anim aliqua est non non. Aute nisi consectetur officia excepteur. Id ad culpa fugiat incididunt ex aliquip laboris id sit pariatur sit occaecat et. Do nisi quis do commodo proident sunt exercitation enim eiusmod labore tempor. Sint velit ut esse et. Et eiusmod adipisicing proident tempor mollit in ad ut ad. Labore voluptate proident nostrud deserunt sunt consequat amet.\r\n",
-		"registered": "2020-07-12T05:54:49 -08:00",
 		"tags": [
 			"animasi"
 		]
