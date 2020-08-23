@@ -1,6 +1,5 @@
 [{
 		"_id": "5f422e5dea094c95617bab2c",
-		"picture": "http://placehold.it/32x32",
 		"name": "Christine Natalie",
 		"company": "Olive Oil",
 		"tags": [
@@ -9,7 +8,6 @@
 	},
 	{
 		"_id": "5f422e5d1e59d68513a86be1",
-		"picture": "http://placehold.it/32x32",
 		"name": "Deddy Rachman",
 		"company": "Titik Pintar",
 		"tags": [
@@ -19,7 +17,6 @@
 	},
 	{
 		"_id": "5f422e5d1b32ffab63edbbfd",
-		"picture": "http://placehold.it/32x32",
 		"name": "ALDO Fernando",
 		"company": "Tok Tik",
 		"tags": [
@@ -37,7 +34,6 @@
 	},
 	{
 		"_id": "5f422e5da777343811ca2516",
-		"picture": "http://placehold.it/32x32",
 		"name": "ALICIA FELICIA",
 		"company": "Dentists",
 		"tags": [
@@ -46,7 +42,6 @@
 	},
 	{
 		"_id": "5f422e5d73702fedc357510a",
-		"picture": "http://placehold.it/32x32",
 		"name": "Marcia Contreras",
 		"company": "SYNTAC",
 		"tags": [
